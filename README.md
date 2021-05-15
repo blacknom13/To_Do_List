@@ -2,7 +2,7 @@
 Managing basic to-do list stored in a XML file
 Available commands:
 **********************************************************************************
-**<list>**: lists all the tasks sharing the same attribute.
+**list**: lists all the tasks sharing the same attribute.
 
 Enter keyword <list> then the attribute <-s> and the status <task status>;
 which is one of three: new, in_progress, done.
