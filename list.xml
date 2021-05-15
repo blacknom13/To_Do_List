@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ToDoList>
+	<Task id="1" caption="r">
+		<Description> t </Description>
+		<Priority> 100 </Priority>
+		<DeadLine> 2016-03-03 </DeadLine>
+		<Status> new </Status>
+		<Completed> null </Completed>
+	</Task>
+</ToDoList>
