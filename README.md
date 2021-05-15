@@ -13,7 +13,7 @@ _Example: list -s done; lists the completed tasks._
 **new**: creates a new task. The status is automatically set to (new).
 
 Enter keyword <new> then, in a new line enter the following: 
-<caption>,<description>,<priority>,<dead line>;
+/<caption>,<description>,<priority>,<dead line>;
 
 _Example: new \ Buy grocery, Go to the store to buy stuff, 100, 2020-03-13_
 **********************************************************************************
